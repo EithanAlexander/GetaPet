@@ -1,4 +1,4 @@
-# GetAPet
+# GetaPet
 
 ## Description
 This project is meant to create an application that helps all sort of pets to find a home.  
